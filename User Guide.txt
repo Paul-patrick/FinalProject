@@ -1,0 +1,9 @@
+To run this project ensure you do the following
+1.Ensure you install Node.js in your machine
+2.Ensure you have a running block chain platform(For this scenario i have used Ganache CLI)
+3.Ensure you install truffle frameworks
+4.To run your project start the scripts(node)
+5.Ensure you have an account with Rinkeyby.test and get your ApI key to connect to metamask wallet
+6.Run truffle migrate to do mining and investigate on effect on account created.
+
+7.Automatically after the website opens (localhost:3000) click on the logo icon to be directed to the normal website where user can login and do transactions.
